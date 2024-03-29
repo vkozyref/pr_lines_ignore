@@ -1,2 +1,2 @@
-package-lock.json linguist-generated
-generated/* linguist-generated
+package-lock.json linguist-generated=true
+generated/* linguist-generated=true
